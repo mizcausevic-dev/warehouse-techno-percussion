@@ -1,0 +1,26 @@
+{
+  "title": "Warehouse Techno Percussion",
+  "study": "wtp01",
+  "bpm": 132,
+  "source_audio": "preview/warehouse-techno-percussion-simple-synth-preview.mp3",
+  "source_audio_sha256": "a4fe4396cf2021464c267307202232674ec36d66a096d4fdc593f0c5168f7189",
+  "source_midi": "midi/wtp01-concrete-hall/wtp01-concrete-hall-combined.mid",
+  "source_midi_sha256": "1c9a97276192c64f878e668be524a68a4d43cea5c64bd869f2f1f1b355f483de",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "d17235937ae7de1ec4ff8fc696e159fbc02d4dc9aae321b7a072d657be86a5cd",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "589d129327c104ec7b316628b45f5ea9a319780e83e088f647703df918d2f33e",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "76b321122409415d333ab95565c96b67c50bd6bef369cef31da4be3b512c74ee",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

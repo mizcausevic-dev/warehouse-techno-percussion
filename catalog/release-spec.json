@@ -1,0 +1,84 @@
+{
+  "pack_identifier": "warehouse-techno-percussion",
+  "display_name": "Warehouse Techno Percussion Studies",
+  "brief_name": "Warehouse Techno Percussion",
+  "creative_intention": "Original programmed percussion and restrained low synth.",
+  "rhythmic_direction": "Four-on-the-floor kick with offbeat hats and sparse accents.",
+  "palette": "Mapped drums, bass, chords and short tonal cells.",
+  "guardrail": "Original symbolic studies; genre labels are production directions, not cultural authority.",
+  "generator_version": "release-train-1.0.0",
+  "reproducible_command": "python tools/build_release.py --pack warehouse-techno-percussion",
+  "actual_tempo_bpm": 132,
+  "meter": "4/4",
+  "ppq": 480,
+  "end_tick": 61440,
+  "roles": [
+    {
+      "role": "chord_pulse",
+      "wire_channel": 0,
+      "user_facing_channel": 1,
+      "polyphony_cap": 3
+    },
+    {
+      "role": "sub_bass",
+      "wire_channel": 1,
+      "user_facing_channel": 2,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "principal_motif",
+      "wire_channel": 2,
+      "user_facing_channel": 3,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "vocal_like_synth",
+      "wire_channel": 3,
+      "user_facing_channel": 4,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "counter_texture",
+      "wire_channel": 4,
+      "user_facing_channel": 5,
+      "polyphony_cap": 2
+    },
+    {
+      "role": "drums",
+      "wire_channel": 9,
+      "user_facing_channel": 10,
+      "polyphony_cap": 4
+    }
+  ],
+  "studies": [
+    {
+      "id": "wtp01",
+      "title": "Concrete Hall",
+      "tonic": "A",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "wtp02",
+      "title": "Rust Strike",
+      "tonic": "C",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "wtp03",
+      "title": "Echo Floor",
+      "tonic": "D#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "wtp04",
+      "title": "Steel Return",
+      "tonic": "A#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    }
+  ],
+  "limitations": [
+    "Original symbolic material; no samples.",
+    "Automated validation is technical evidence, not copyright clearance.",
+    "The listening file is a simple-synthesis preview, not a master."
+  ]
+}

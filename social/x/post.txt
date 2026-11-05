@@ -1,0 +1,3 @@
+DRAFT: Warehouse Techno Percussion Studies is a four-study original MIDI release at 132 BPM. Simple-synthesis preview, not a master. #MIDI #Composition
+
+Count: 151 characters using Python len

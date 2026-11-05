@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/warehouse-techno-percussion-simple-synth-preview.mp3",
+  "preview_sha256": "a4fe4396cf2021464c267307202232674ec36d66a096d4fdc593f0c5168f7189",
+  "source_midi_path": "midi/wtp01-concrete-hall/wtp01-concrete-hall-combined.mid",
+  "source_midi_sha256": "1c9a97276192c64f878e668be524a68a4d43cea5c64bd869f2f1f1b355f483de",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "wtp01",
+    "start_seconds": 0,
+    "end_seconds": 58.182
+  },
+  "measurement": {
+    "sample_peak": 0.149548,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+wtp01,Concrete Hall,pack-local equal-tempered pitch collection,A,132,4/4,480,32,61440,midi/wtp01-concrete-hall/wtp01-concrete-hall-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+wtp02,Rust Strike,pack-local equal-tempered pitch collection,C,132,4/4,480,32,61440,midi/wtp02-rust-strike/wtp02-rust-strike-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+wtp03,Echo Floor,pack-local equal-tempered pitch collection,D#,132,4/4,480,32,61440,midi/wtp03-echo-floor/wtp03-echo-floor-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+wtp04,Steel Return,pack-local equal-tempered pitch collection,A#,132,4/4,480,32,61440,midi/wtp04-steel-return/wtp04-steel-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
