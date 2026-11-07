@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/warehouse-techno-percussion-midi.zip",
-      "bytes": 29928,
-      "sha256": "5d710a3ef14d0b2d2c3c1ca0d70dce513ccdc8eb69b7f2e1cd74f3100d31737c"
+      "bytes": 31884,
+      "sha256": "3449db5da2769bcfacff1b1b2adf2d60763b6d02753decbdb1a7d1a859ae7af6"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9574,
-      "sha256": "ec00865c1ecd3e6458fe49b0a138b2395b886c59e706486804b00b843a088545"
+      "bytes": 9764,
+      "sha256": "d5a87bc6816567bc3a7844b35bfaa15e95be6855bb801ef9d8bad3f741ec0621"
     },
     {
       "path": "midi/wtp01-concrete-hall/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "d2b94402e470b94ebb8746ffb9f991006abc8c8e81733bfa3ac65877d97c9114"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1147,
       "sha256": "b1722da34cae033826afc858cb3477a5c5f0c68fcfd31ebbd047d8074d1d0b90"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3922,
-      "sha256": "015c5e5029b6a6934f2c3ce8a86d5cb6d101c5dcce3a4defa7b8e233cff25a0a"
+      "bytes": 4037,
+      "sha256": "a4f76ecac1e4d9a5d363cde56e0bdb85805e6784ef9211cc3c7219296b2ea7b1"
     },
     {
       "path": "social/instagram/caption.txt",
